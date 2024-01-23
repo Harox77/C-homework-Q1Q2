@@ -1,0 +1,25 @@
+questions on:
+
+- V-Design phases in order
+
+- Why requirements
+
+- Fully specify a signal?
+
+- Functionality of submodule
+
+- Design alternatives (why? what? different comparisons)
+
+- Different submodule is randomly picked
+
+- Alternatives for other submodule
+
+- Why do we test? And why test often?
+
+- Then another submodule
+
+- Output>? How test apart from baby?
+
+- Goal of the project? What is the project assignment?
+	- system calms down baby, no intervention
+
